@@ -135,3 +135,4 @@ These links are useful for checking whether a symptom is still present on the la
 This is an independent community project for Scam With Your Friends players and is not an official release from the game developer or publisher. A missing save, server outage or internal game bug may not be repairable by third-party software.
  
  
+ 
